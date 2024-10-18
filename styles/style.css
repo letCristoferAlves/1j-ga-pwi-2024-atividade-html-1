@@ -1,0 +1,72 @@
+.omega {
+  border-radius: 50%;
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+  float: left;
+  margin-right: 10px;
+}
+.co, a, u {
+  color:  #784000;
+}
+h1, h2, h3 {
+  font-family: Georgia;
+  color: #784000;
+  opacity: 0.5;
+}
+hr{
+  border-color: #784000;
+  opacity: 0.5;
+}  
+body {
+  background-color: #f2f2f2; 
+}
+img {
+  width: 650px;
+  height: 500px;
+  object-fit: cover;
+  margin-right: 5px
+}
+.imagem {
+  width: 350px;
+  height: 250px;
+  object-fit: cover;
+  float: right;
+  margin-right: 5px
+}
+.livro{
+  width: 600px;
+  height: 600px;
+  object-fit: cover;
+  margin-right: 5px;
+}
+.game {
+  width: 800px;
+  height: 500px;
+  object-fit: cover;
+  margin-right: 60px
+}
+.amg {
+  width: 500px;
+  height: 500px;
+  object-fit: cover;
+  float: right;
+  margin-right: px
+}
+.min {
+  margin-right: 10px;
+ font-size: 16px; 
+}
+.cor{
+  margin-right: 10px;
+  color:  #9A9BA3;
+  font-size: 16px; 
+}
+.si {
+  border-radius: 12px;
+  width: 250px;
+  height: 250px;
+  object-fit: cover;
+  float: right;
+  margin-right: 200px;
+}
